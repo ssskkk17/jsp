@@ -1,4 +1,4 @@
-/.settings/
-/.build/
-/.clathpath
-/.project
+.settings
+build
+.classpath
+.project
