@@ -49,6 +49,5 @@ countB++;
 円=
 <input type = "submit" value = "計算">
 </form>
-
 </body>
 </html>
